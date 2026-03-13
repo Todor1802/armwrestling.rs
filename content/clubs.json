@@ -1,1 +1,98 @@
-[]
+[
+  {
+    "slug": "arm-klub-beograd",
+    "name": "Arm Klub Beograd",
+    "city": "Beograd",
+    "region": "Beograd",
+    "address": "Bulevar kralja Aleksandra 123",
+    "lat": 44.8176,
+    "lng": 20.4633,
+    "contact": {
+      "instagram": "@armklubbgd",
+      "phone": "+381 64 123 4567"
+    },
+    "trainingSchedule": "Pon/Sre/Pet 18:00–20:00",
+    "description": "Najstariji klub za obaranje ruku u Beogradu. Treninzi za početnike i takmičare svakog nivoa. Profesionalni stolovi i oprema.",
+    "imageUrl": "/images/clubs/arm-klub-beograd.jpg"
+  },
+  {
+    "slug": "vojvodina-armwrestling",
+    "name": "Vojvodina Armwrestling",
+    "city": "Novi Sad",
+    "region": "Vojvodina",
+    "address": "Bulevar oslobođenja 78",
+    "lat": 45.2671,
+    "lng": 19.8335,
+    "contact": {
+      "instagram": "@vojvodina_arm",
+      "email": "vojvodinaarm@gmail.com"
+    },
+    "trainingSchedule": "Uto/Čet 19:00–21:00",
+    "description": "Vodeći klub u Vojvodini sa fokusom na razvoj mladih takmičara. Organizujemo redovne sparinge i pripreme za turnire.",
+    "imageUrl": "/images/clubs/vojvodina-armwrestling.jpg"
+  },
+  {
+    "slug": "niski-arm-klub",
+    "name": "Niški Arm Klub",
+    "city": "Niš",
+    "region": "Jugoistočna Srbija",
+    "address": "Obrenovićeva 15",
+    "lat": 43.3209,
+    "lng": 21.8958,
+    "contact": {
+      "phone": "+381 63 987 6543",
+      "facebook": "NiskiArmKlub"
+    },
+    "trainingSchedule": "Pon/Sre/Pet 19:00–21:00",
+    "description": "Klub osnovan 2019. godine sa ciljem popularizacije obaranja ruku u južnoj Srbiji. Dobrodošli su svi bez obzira na iskustvo.",
+    "imageUrl": "/images/clubs/niski-arm-klub.jpg"
+  },
+  {
+    "slug": "kragujevac-arms",
+    "name": "Kragujevac Arms",
+    "city": "Kragujevac",
+    "region": "Šumadija",
+    "address": "Kneza Mihaila 42",
+    "lat": 44.0128,
+    "lng": 20.9114,
+    "contact": {
+      "instagram": "@kg_arms",
+      "phone": "+381 65 555 1234"
+    },
+    "trainingSchedule": "Uto/Čet/Sub 18:00–20:00",
+    "description": "Jedini klub za obaranje ruku u Šumadiji. Treninzi prilagođeni svim uzrastima — od juniora do veterana.",
+    "imageUrl": "/images/clubs/kragujevac-arms.jpg"
+  },
+  {
+    "slug": "pancevo-power-arms",
+    "name": "Pančevo Power Arms",
+    "city": "Pančevo",
+    "region": "Vojvodina",
+    "address": "Vojvode Radomira Putnika 5",
+    "lat": 44.8708,
+    "lng": 20.6403,
+    "contact": {
+      "phone": "+381 61 222 3344",
+      "instagram": "@pancevopowerarms"
+    },
+    "trainingSchedule": "Pon/Sre 18:30–20:30",
+    "description": "Klub sa naglaskom na snagu i tehniku. Redovni treninzi na profesionalnim stolovima uz iskusne trenere.",
+    "imageUrl": "/images/clubs/pancevo-power-arms.jpg"
+  },
+  {
+    "slug": "subotica-arm-sport",
+    "name": "Subotica Arm Sport",
+    "city": "Subotica",
+    "region": "Vojvodina",
+    "address": "Korzo 10",
+    "lat": 46.1004,
+    "lng": 19.6658,
+    "contact": {
+      "email": "suboticaarmsport@gmail.com",
+      "facebook": "SuboticaArmSport"
+    },
+    "trainingSchedule": "Uto/Pet 18:00–20:00",
+    "description": "Najseverniji klub za obaranje ruku u Srbiji. Aktivni na domaćoj i međunarodnoj sceni sa više reprezentativaca.",
+    "imageUrl": "/images/clubs/subotica-arm-sport.jpg"
+  }
+]

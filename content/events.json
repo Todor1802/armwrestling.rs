@@ -1,1 +1,49 @@
-[]
+[
+  {
+    "slug": "otvoreno-prvenstvo-srbije-2026",
+    "name": "Otvoreno prvenstvo Srbije 2026",
+    "date": "2026-05-16",
+    "city": "Beograd",
+    "venue": "Hala sportova Voždovac",
+    "organizer": "Arm Klub Beograd",
+    "categories": ["Open", "Seniori", "Seniorke"],
+    "registrationUrl": "https://example.com/prijava-ops-2026",
+    "description": "Najznačajnije godišnje takmičenje u obaranju ruku u Srbiji. Otvoreno za sve registrovane takmičare. Više težinskih kategorija za muškarce i žene.",
+    "imageUrl": "/images/events/otvoreno-prvenstvo-srbije-2026.jpg"
+  },
+  {
+    "slug": "vojvodina-open-2026",
+    "name": "Vojvodina Open 2026",
+    "date": "2026-04-12",
+    "city": "Novi Sad",
+    "venue": "SPENS — Sportski i poslovni centar",
+    "organizer": "Vojvodina Armwrestling",
+    "categories": ["Open", "Amateri"],
+    "registrationUrl": "https://example.com/vojvodina-open-2026",
+    "description": "Regionalni turnir otvoren za sve nivoe iskustva. Idealna prilika za prve mečeve u takmičarskom okruženju.",
+    "imageUrl": "/images/events/vojvodina-open-2026.jpg"
+  },
+  {
+    "slug": "juniorsko-prvenstvo-srbije-2026",
+    "name": "Juniorsko prvenstvo Srbije 2026",
+    "date": "2026-06-21",
+    "city": "Kragujevac",
+    "venue": "Sportski centar Šumadija",
+    "organizer": "Kragujevac Arms",
+    "categories": ["U18", "U21"],
+    "description": "Takmičenje za mlade armwrestlere do 18 i do 21 godine. Selekcija za juniorsku reprezentaciju Srbije.",
+    "imageUrl": "/images/events/juniorsko-prvenstvo-srbije-2026.jpg"
+  },
+  {
+    "slug": "pancevo-amateur-cup-2026",
+    "name": "Pančevo Amateur Cup 2026",
+    "date": "2026-04-26",
+    "city": "Pančevo",
+    "venue": "Dom omladine Pančevo",
+    "organizer": "Pančevo Power Arms",
+    "categories": ["Amateri", "Početnici"],
+    "registrationUrl": "https://example.com/pancevo-cup-2026",
+    "description": "Amaterski turnir namenjen početnicima i rekreativcima. Bez prethodnog takmičarskog iskustva — samo dođite i probajte.",
+    "imageUrl": "/images/events/pancevo-amateur-cup-2026.jpg"
+  }
+]
